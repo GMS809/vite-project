@@ -1,4 +1,4 @@
 function Numbers(x: number, y: number) {
     return x + y;
   }
-  console.log(Numbers(3, 6));
+  console.log(Numbers(5, 6));
